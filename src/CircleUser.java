@@ -8,7 +8,7 @@ public class CircleUser {
         
         //here we are creating object of circle.
         Circle c=new Circle();
-        c.radius=10;
+        c.setRadius(100);
         c.computeArea();
         c.computeCircumference();
         
